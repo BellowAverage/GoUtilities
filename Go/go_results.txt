@@ -1,0 +1,25 @@
+Call: lm(formula = y ~ x, data = Set I)
+
+Coefficients:
+(Intercept)   3.0001
+Slope         0.5001
+-------------------------------------------------
+Call: lm(formula = y ~ x, data = Set II)
+
+Coefficients:
+(Intercept)   3.0009
+Slope         0.5000
+-------------------------------------------------
+Call: lm(formula = y ~ x, data = Set III)
+
+Coefficients:
+(Intercept)   3.0025
+Slope         0.4997
+-------------------------------------------------
+Call: lm(formula = y ~ x, data = Set IV)
+
+Coefficients:
+(Intercept)   NaN
+Slope         NaN
+-------------------------------------------------
+Execution Time (Go): 0.0005 seconds
