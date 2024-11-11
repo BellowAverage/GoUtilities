@@ -14,7 +14,7 @@ This document provides an overview of how AI-assisted tools, such as GitHub Copi
    - **URL**: [https://chat.openai.com/](https://chat.openai.com/)
    - **Description**: ChatGPT is a large language model (LLM) developed by OpenAI. The free plan allows users to ask questions, request code generation, and receive guidance in a conversational format. For this assignment, ChatGPT was used to generate Go code for statistical analysis tasks and to debug issues with code logic.
 
-## Step-by-Step Review of AI Assistance
+## Review of AI Assistance
 
 ### Step 1: Initial Code Review with GitHub Copilot
 
